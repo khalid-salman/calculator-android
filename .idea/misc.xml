@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/c_btn.xml" value="0.217" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/equal_btn.xml" value="0.252" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/mem_btn.xml" value="0.217" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/num_btn.xml" value="0.252" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/op_btn.xml" value="0.217" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/drawable/trig_btn.xml" value="0.217" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/layout-land/activity_main.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/layout/activity_main.xml" value="0.6" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1655" />
+        <entry key="..\:/Users/Nada Salman/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/layout-land/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/Calculator Orginal/Calculator/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/drawable/del_btn.xml" value="0.332" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/drawable/num_btn.xml" value="0.1735" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/drawable/rec_btn.xml" value="0.332" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/layout-land/activity_main.xml" value="0.43371757925072046" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/legion/AndroidStudioProjects/lastEdit/Calculator Orginal/Calculator/app/src/main/res/layout/splash_screen.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
